@@ -5,13 +5,21 @@ This is a Nike Shoes E-commerce Website built using HTML, CSS, JavaScript, React
 # 🚀 Features
 
 ✅ Fully Responsive Design (Desktop, Tablet & Mobile friendly).
+
 ✅ Modern UI with Light Mode & Dark Mode toggle.
+
 ✅ Smooth Navigation using React Router DOM.
+
 ✅ Interactive Icons powered by React Icons.
+
 ✅ Engaging Mouse Interactions with Mouse Follower.
+
 ✅ Stunning Animations using Framer Motion.
+
 ✅ Clean and optimized codebase.
+
 ✅ User-friendly and intuitive layout.
+
 ✅ Minimalist design inspired by Nike's branding.
 
 # 🛠️ Tech Stack
